@@ -12,6 +12,6 @@ I am a Web Developer & UI/UX Designer.
 
 <a href="https://github.com/yasinidev">
 <img height=200 src="https://streak-stats.demolab.com/?user=yasinidev&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only)](https://git.io/streak-stats" />
-</a> &nbsp; &nbsp;<a href="https://github.com/yasinidev">
+</a> <a href="https://github.com/yasinidev">
 <img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=yasinidev&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Yasini's Language stats" />
 </a>
