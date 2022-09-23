@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Yasini Birategetse.
+### 👋 Hi there, I'm Yasini.
 I am a Web Developer & UI/UX Designer.
 
 [![Github](https://img.shields.io/github/followers/yasinidev?label=Follow&style=social)](https://github.com/yasinidev)
