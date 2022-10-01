@@ -4,7 +4,7 @@ I am a Web Developer & UI/UX Designer.
 [![Github](https://img.shields.io/github/followers/yasinidev?label=Follow&style=social)](https://github.com/yasinidev)
 
 <a href="https://twitter.com/intent/follow?screen_name=yas4rea1#gh-dark-mode-only">
-<img src="https://img.shields.io/twitter/follow/yas4rea1?style=for-the-badge&logo=twitter&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
+<img src="https://img.shields.io/twitter/follow/YasPCS?style=for-the-badge&logo=twitter&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
 </a>
 
 </br></br>
